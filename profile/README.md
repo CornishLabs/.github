@@ -1,12 +1,4 @@
-## Hi there 👋
+Here we host code that is used internally in labs of the Simon Cornish at Durham university.
+This code is typically not intended for public consumption, that code typically lives in our wider [Quantum Light and Matter (QLM)](https://durham-qlm.uk/) group's [Github](https://github.com/durham-qlm/).
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We choose to make these repositories accessible to the wider public (in the cases that we do) as we believe it beneficial for people to see how APIs of typical lab devices are used - not that we claim to use them correctly in all cases...
